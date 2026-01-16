@@ -1,2 +1,2 @@
-# project
+# Animal Image Classificaton
 project discription
